@@ -1,7 +1,3 @@
-from msilib.schema import Class
-from unicodedata import name
-
-
 class Session:
     """ Session Class """
 
